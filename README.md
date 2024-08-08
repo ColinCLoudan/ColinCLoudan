@@ -4,6 +4,6 @@ My experience spans various projects and roles, including developing a modern an
 
 In addition to my technical expertise, I am actively involved in the Texas A&M Cybersecurity Club, where I am working towards earning my CCNA certification, and the Professional Brotherhood of Engineers, where I participate in professional workshops and community service events. As a member of the Texas A&M Water Ski Team, I balance my technical pursuits with athletic activities.
 
-My skill set includes Python, C, C++, HTML, CSS, Java, JavaScript, Scheme, Racket, SQL, R, Git, Linux, SEO, Microsoft Office, Google Workspace, and much more! I am also a student pilot, certified scuba diver, Eagle Scout, and have interests in backpacking, baking, tennis, trombone, golf, football, and sailing.
+My skill set includes Python, C, C++, HTML, CSS, Java, JavaScript, Scheme, Racket, SQL, NoSQL, R, Git, GitHub, Linux, Unix, Bash, SEO, Microsoft Office, Google Workspace, and much more! I am also a student pilot, certified scuba diver, Eagle Scout, and have interests in backpacking, baking, tennis, trombone, golf, football, and sailing.
 
 I am eager to leverage my technical skills, leadership experience, and passion for software engineering, cybersecurity, and web development in a professional setting, contributing to innovative solutions and advancing the fields of software engineering, cybersecurity, and web development. Please feel free to check out my LinkedIn at www.linkedin.com/in/colinloudan and email me at colincloudan@gmail.com!
