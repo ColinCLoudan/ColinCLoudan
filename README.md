@@ -2,7 +2,7 @@ Howdy! My name is Colin Loudan and I am a dedicated, passionate, and results-foc
 
 My experience spans various projects and roles, including developing a modern and engaging website for the Texas A&M Water Ski Team, designing a virtual Y86-64 processor, developing an electrocardiogram data client-server application, and leading a team to create a weather data graphing tool. These projects have honed my skills in web development, processor simulation, computer networking, data visualization, and full-stack development.
 
-In addition to my technical expertise, I am actively involved in the Texas A&M Cybersecurity Club, where I am working towards earning my CCNA certification, and the Professional Brotherhood of Engineers, where I participate in professional workshops and community service projects. As a member of the Texas A&M Water Ski Team, I balance my technical pursuits with athletic activities.
+In addition to my technical expertise, I am actively involved in the Texas A&M Cybersecurity Club, where I am working towards earning my CCNA certification, and the Professional Brotherhood of Engineers, where I participate in weekly professional workshops, lead a committee in organizing daily study sessions, and partake in monthly community service projects. As a member of the Texas A&M Water Ski Team, I balance my technical pursuits with athletic activities.
 
 My skill set includes Python, C++, Linux, C, HTML, CSS, Java, JavaScript, Scheme, Racket, SQL, NoSQL, R, Git, GitHub, Unix, Bash, SEO, Microsoft Office, Google Workspace, and much more! I am also a student pilot, certified scuba diver, Eagle Scout, and have interests in backpacking, tennis, golf, football, sailing, and community service.
 
